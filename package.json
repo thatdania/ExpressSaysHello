@@ -1,0 +1,22 @@
+{
+  "name": "expresshello",
+  "version": "1.0.0",
+  "description": "This repo was made to get a jist of using Express. Given that Express is a routing framework similar to Sinatra, I wanted to do a short experiment to get Express to say hello to you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatdania/ExpressSaysHello-.git"
+  },
+  "author": "Dania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatdania/ExpressSaysHello-/issues"
+  },
+  "homepage": "https://github.com/thatdania/ExpressSaysHello-#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
